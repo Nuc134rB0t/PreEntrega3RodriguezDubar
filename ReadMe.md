@@ -1,0 +1,177 @@
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dubar/) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Nuc134rB0t&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nuc134rB0t&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuc134rB0t&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Nuc134rB0t&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+# Bitácora de cambios #
+
+
+
+## Versión 2 - Tag b2.0 ##
+
+### Actualizaciones:
+
+#### ./
+- Liberada v2.0 Beta para Pre Entrega 3.
+
+#### pages/
+- Se crean carpetas con el nombre de la páginas para cambiar la ruta de la URL.
+- Se cambia el nombre de la pagina *.html por index.html.
+- Se meten los index.html en su carpeta correspondiente.
+
+#### index.html
+- HEAD: Metadata.
+- HEAD: Se agregar todas las barras en etiquetas de autocirre.
+
+#### personajes.html
+- HEAD: Metadata.
+- HEAD: Se agregar todas las barras en etiquetas de autocirre.
+
+#### pelicula.html
+- HEAD: Metadata.
+- HEAD: Se agregar todas las barras en etiquetas de autocirre.
+- CONTENT: Se agrega formulario de suscripción a noticias e información.
+
+#### juegos.html
+- HEAD: Metadata.
+- HEAD: Se agregar todas las barras en etiquetas de autocirre.
+
+#### fanaticos.html
+- HEAD: Metadata.
+- HEAD: Se agregar todas las barras en etiquetas de autocirre.
+
+
+
+
+
+
+## Versión 1.2 - Tag v1.2 ##
+
+### Actualizaciones:
+
+- Se agregan 3 páginas: personajes.html, pelicula.html, fanaticos.html.
+
+
+
+
+
+
+## Versión 1.1 - Tag v1.1 ##
+
+### Correcciones:
+
+#### index.html
+- Cambios menores.
+
+#### juegos.html
+- Sonido de los ladrillos.
+
+#### ReadMe.md
+- Camios en el uso de los simbolos.
+
+
+
+
+
+
+## Versión 1 - Tag v1.0 ##
+
+### Correcciones:
+- Se agrega algo de padding para las pantallas móviles.
+
+### Actualizaciones:
+
+#### ./
+- Liberada v1.0
+
+#### index.html
+- Se agregan moneda y puntaje que saltan al hacer clic sobre los ladrillos del menú.
+
+#### juegos.html
+
+
+
+
+
+
+## Beta 3 - Tag b0.3 ##
+
+### Correcciones:
+
+#### ./
+- Se reognanizan las carpetas.
+
+#### index.html
+- Se agrega sonido a Ladrillos y logo de MarioBros. (Antes había quedado incorrecto).
+- Alineación del navbar mejorada.
+- Se agrega overflow-x en tamaño medio.
+- Los articulos pasan de ser div a ser articles.
+
+#### juegos.html
+- Alineación del navbar mejorada.
+- Ajustes al grid en tamaño medio y pequeño.
+
+### Actualizaciones:
+
+#### index.html
+- Los articulos tienen un fondo con colores interactivos.
+
+#### juegos.html
+- Las tarjetas de los juegos tienen un fondo con colores interactivos.
+
+
+
+
+
+
+## Beta 2 - Tag b0.2 ##
+
+### Correcciones:
+
+#### index.html
+- Se corrigen los enlaces de los botones [Inicio] y [Juegos] del menú navbar (azul) para pantallas pequeñas.
+
+#### juegos.html
+- Se corrigen los enlaces de los botones [Inicio] y [Juegos] del menú navbar (azul) para pantallas pequeñas.
+! Corregir grid en tamaño medio.
+
+### Actualizaciones:
+
+#### ./
+- Se agrega el archivo bitácoda de cambios.
+
+#### index.html
+- Se agrega título y descripción del sitio.
+- Se agregan 3 columnas con títulos e información descriptiva.
+- Se aplica comportamiento responsive con bootstrap.
+- Se agrega sonido al logo de MarioBros.
+
+#### juegos.html
+- Se agrega sonido al logo de MarioBros.
+
+
+
+
+
+
+## Beta 1 - Tag b0.1 ##
+
+### Actualizaciones:
+
+#### ./
+- Primer commit con todos los archivos necesarios para mostrar los avances de las páginas: index.html y juegos.html.
+
+# Hello World!
